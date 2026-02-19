@@ -29,3 +29,22 @@ Recommendations :
  - Encourage lifestyle interventions for high-risk segments.
 
 Detailed analysis in the code attached in folder.
+
+Skills Demonstrated :
+
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Statistical Analysis
+Data Visualization
+Business Insight Generation
+power bi Dashboard Development
+Problem Solving
+
+Tools & Technologies :
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
