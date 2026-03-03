@@ -30,6 +30,18 @@ Recommendations :
 
 Detailed analysis in the code attached in folder.
 
+SQL :
+
+create database Heartheath
+--drop table PorterdataAnalysis
+create table HeartheathAnalysis(age smallint, sex smallint, cp smallint,
+trestbps int, chol int, fbs smallint, restecg smallint, thalach int,
+       exang smallint, oldpeak float, slope smallint, ca smallint, thal smallint, target1 smallint
+)
+
+--truncate table  hospitaladmissionanalysis
+select * from HeartheathAnalysis;
+
 Skills Demonstrated :
 
 Data Cleaning & Preprocessing
@@ -39,6 +51,7 @@ Data Visualization
 Business Insight Generation
 power bi Dashboard Development
 Problem Solving
+sql
 
 Tools & Technologies :
 
@@ -48,3 +61,4 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+sql server
